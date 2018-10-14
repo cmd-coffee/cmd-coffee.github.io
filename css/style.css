@@ -1,0 +1,23 @@
+
+.avatar {
+    height: 0px;
+    visibility: hidden
+}
+
+.wrapper {
+    background:black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: lowercase;
+  color:white;
+}
+
+.centered .about ul li a {
+    text-transform: lowercase;
+    color:white;
+}
+
+.navigation {
+    visibility: hidden;
+}
